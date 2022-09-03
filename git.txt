@@ -1,0 +1,10 @@
+ working area		stagging area		local system		remote system
+
+text.txt
+git add ___ or .		git commit--->		git push--->
+
+
+(master) : master is a branch in which we can add multiple repositories.
+git init : .git folder's command detected.
+git init foldername : without created any folder it will create folder and initialize.
+git remote add origin url_of_repository : go to that repository link from local device.
